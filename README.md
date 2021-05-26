@@ -6,3 +6,4 @@ Hi there! I'm a Brazilian game developer working on the Game Industry.
 - instagram: https://www.instagram.com/marciovmf
 - Blog: https://handmadegame.dev/
 - Youtube: http://youtube.com/gamedevlog
+- Discord server: https://discord.gg/fPCT93b
