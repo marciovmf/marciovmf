@@ -1,5 +1,5 @@
 ### It's a me, Márcio!
-Hi there! I'm a Brazilian game developer working on the Game Industry.
+Hi there! I'm a Brazilian game/engine developer passionate about handcrafting sofware.
 
 ### Get in touch
 - twitter: https://twitter.com/marciovmf
